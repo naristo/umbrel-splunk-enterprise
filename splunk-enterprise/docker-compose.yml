@@ -13,6 +13,6 @@ services:
       - 9997:9997
       - 1514:1514/udp
     volumes:
-      - {APP_DATA_DIR}/etc:/opt/splunk/etc
-      - {APP_DATA_DIR}/var:/opt/splunk/var
+      - ${APP_DATA_DIR}/etc:/opt/splunk/etc
+      - ${APP_DATA_DIR}/var:/opt/splunk/var
     restart: unless-stopped
