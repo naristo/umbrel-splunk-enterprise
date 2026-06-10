@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: splunk-enterprise
+name: Splunk Enterprise
+tagline: Splunk Enterprise
+icon: https://assets.portal.heretto.com/splunk/25-02-28/logo_splunk-corporate_rgb-k.svg
+category: Development
+version: "1.0.0"
+port: 8000
+description: >-
+  Gain operational intelligence by collecting, indexing, and visualizing data using a powerful on-premises engine for actionable insights.
+
+
+  Splunk Enterprise is a software product that enables you to search, analyze, and visualize the data gathered from the components of your IT infrastructure or business. Splunk Enterprise takes in data from websites, applications, sensors, devices, and so on. After you define the data source, Splunk Enterprise indexes the data stream and parses it into a series of individual events that you can view and search.
+developer: Umbrel
+website: https://umbrel.com
+submitter: Umbrel
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
